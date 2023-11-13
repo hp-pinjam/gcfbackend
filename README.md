@@ -1,3 +1,7 @@
 # gcfbackend Hp Pinjam
 
-#realese package
+# realese package
+```sh
+go mod init github/githubname/repo
+go mod tidy
+```
