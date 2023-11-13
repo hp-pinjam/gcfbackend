@@ -1,6 +1,6 @@
-# gcfbackend Hp Pinjam
+# gcfbackend 
 
-# realese package
+<!-- # realese package
 ```sh
 go mod init github/githubname/repo
 go mod tidy
@@ -10,4 +10,4 @@ git push origin --tags
 go list -m github/githubname/repo@v0.0.1
 
 go test
-```
+``` -->
